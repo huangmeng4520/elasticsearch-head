@@ -96,3 +96,4 @@ To contribute an internationalisation
 # Submit a pull request
 
 !http://mobz.github.com/elasticsearch-head/screenshots/clusterOverview.png(ClusterOverview Screenshot)!
+安装参考文档：http://www.cnblogs.com/xing901022/p/6030296.html
